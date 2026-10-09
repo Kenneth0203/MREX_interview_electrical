@@ -8,12 +8,11 @@ An interactive response to Electrical Question 1, prepared for Kenneth Lai.
 Open `index.html` in a browser, or visit the GitHub Pages deployment:
 https://Kenneth0203.github.io/MREX_interview_electrical/
 
-- Four-stage presentation mode with a timer and keyboard navigation.
 - Three fault hypotheses, each with mechanism, checks and evidence.
 - Illustrative voltage-drop and wiring-loss calculator.
 - Interactive traction circuit, protective bonding and communication diagram.
-- Downloadable SVG diagram and printable speaker notes.
-- EMC explorer, verification plan and interview follow-up questions.
+- Downloadable SVG diagram and printable design review.
+- EMC controls and verification plan.
 
 ## Local preview
 
@@ -35,6 +34,6 @@ construction drawing or a claim about Wallaby's existing electrical system.
 
 - `index.html`: content and functional SVG architecture.
 - `style.css`: responsive styling, print layout and presentation mode.
-- `app.js`: fault tabs, calculator, layer controls, download, EMC and timer.
+- `app.js`: fault tabs, calculator, layer controls, download, EMC controls.
 
 Existing Java source and IDE files are retained independently of the website.
